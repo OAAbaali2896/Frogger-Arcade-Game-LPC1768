@@ -4,7 +4,7 @@
 <img width="425" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57877843-bedf4f00-77e6-11e9-87cf-9e88fa135c81.PNG">
 
 # Frogger Arcade Game
-We created a Frogger Arcade game using C programming language in a LandTiger NXP LPC1768 Micro-Controller board that uses a ARM Cortex-M3 Processor. The game is displayed in an LCD display on the development board.                     
+We created a Frogger Arcade game using C programming language in a LandTiger NXP LPC1768 Micro-Controller board that uses a ARM Cortex-M3 Processor. The game is displayed in an LCD display on the development board. The program is executed in Keil uVision5 IDE.                     
 
 The LPC1768 Development Board Manual can be viewed here: https://copperhilltech.com/content/LandTiger-V2-Manual.pdf  			    
 The User Manual for the LPC1768 can be viewed here: https://www.nxp.com/docs/en/user-guide/UM10360.pdf
@@ -50,7 +50,7 @@ Below are 2 pictures when the user pressess the button to pause or resume the ga
 Before the user plays the game, the user needed to first insert a coin. This can be done by pressing a pushbutton, integrated on the board. The schematic below illustrates the pins and polarity of the pushbutton.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57878385-e84caa80-77e7-11e9-834d-43667475cbc9.PNG">
-Based on this, we see that ** P2.11 ** can be used to read the state of the pushbutton. If the button is pressed, will we read a '0' value at the pin.
+Based on this, we see that P2.11 can be used to read the state of the pushbutton. If the button is pressed, will we read a '0' value at the pin.
 Once the button is pressed, the game will automatically begin.
 A picture of the display screen is shown below.
 
