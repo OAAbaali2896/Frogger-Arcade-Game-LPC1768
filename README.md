@@ -1,4 +1,6 @@
 # Frogger-Arcade-Game
-Hellow world...
+Frogger is a classic arcade game from 1981, developed by Konami in Japan and distributed worldwide by
+Sega. Frogger is widely regarded as one of the classic arcade games and holds a definitive place as one
+of the great video games. 
 
-![frogger](https://user-images.githubusercontent.com/46664545/57331256-23fbbc00-70e6-11e9-9f22-2a12b3ffb72f.gif)
+
