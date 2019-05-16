@@ -86,3 +86,4 @@ A full video of the Frogger Game using LPC1768 Microntroller Board can be viewed
 
 # Thank You
 ## Email: osamaafz@buffalo.edu / osama.afzal96@gmail.com
+## Linkedin - https://www.linkedin.com/in/osamaabaali/
