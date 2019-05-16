@@ -66,12 +66,12 @@ If the frog touches the obstacles(eg. Cars, Falls in River, Jumps in Shrubs, etc
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57879228-eedc2180-77e9-11e9-8dd7-01c244ce92b2.PNG">
 
-### 6: Enging the game if the User loses all lifes
+### 6: Ending the game if the User loses all lifes
 If the user loses all available lifes to navigate the frog to the 5 lilly pads, the game stopes, and the game will display the text shown below.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57879393-5e521100-77ea-11e9-902d-58182d57bd64.PNG">
 
-### 7: Enging the game if the User navigates the frog to all 5 Lilly Pads
+### 7: Ending the game if the User navigates the frog to all 5 Lilly Pads
 If the user navigates the frog to the 5 lilly pads, the game stopes, and the game will display the text shown below.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57879567-cbfe3d00-77ea-11e9-9645-42883f3832b5.PNG">
