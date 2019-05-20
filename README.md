@@ -1,7 +1,7 @@
 # Embedded Systems Project
 [![HitCount](http://hits.dwyl.io/OAAbaali2896/Frogger-Arcade-Game.svg)](http://hits.dwyl.io/OAAbaali2896/Frogger-Arcade-Game)
 
-<img width="425" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57877843-bedf4f00-77e6-11e9-87cf-9e88fa135c81.PNG">
+<img width="250" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57877843-bedf4f00-77e6-11e9-87cf-9e88fa135c81.PNG">
 
 # Frogger Arcade Game
 We created a Frogger Arcade game using C programming language in a LandTiger NXP LPC1768 Micro-Controller board that uses a ARM Cortex-M3 Processor. The game is displayed in an LCD display on the development board. The program is executed in Keil uVision5 IDE.                     
