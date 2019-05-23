@@ -3,6 +3,12 @@
 
 <img width="250" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57877843-bedf4f00-77e6-11e9-87cf-9e88fa135c81.PNG">
 
+# GitHub Webpage
+https://oaabaali2896.github.io/Frogger-Arcade-Game-LPC1768/
+
+# School Name and Course Number
+This prject was completed for EE 383(Embedded Systems) for the Spring 2019 semester at the University at Buffalo, The State University of New York.
+
 # Frogger Arcade Game
 We created a Frogger Arcade game using C programming language in a LandTiger NXP LPC1768 Micro-Controller board that uses a ARM Cortex-M3 Processor. The game is displayed in an LCD display on the development board. The program is executed in Keil uVision5 IDE.                     
 
