@@ -3,9 +3,6 @@
 
 <img width="250" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57877843-bedf4f00-77e6-11e9-87cf-9e88fa135c81.PNG">
 
-# GitHub Webpage
-https://oaabaali2896.github.io/Frogger-Arcade-Game-LPC1768/
-
 # School Name and Course Number
 This prject was completed for EE 383(Embedded Systems) for the Spring 2019 semester at the University at Buffalo, The State University of New York.
 
@@ -45,8 +42,8 @@ The user can navigate the frog to the left by pressing the 'a' key.
 We used a pushbutton, integrated on the board, to pause/resume the game. The schematic below illustrates the pins and polarity of the pushbutton.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57874754-504ac300-77df-11e9-8014-a0e9579ff909.PNG">
-Based on this, we see that P2.12 (the board schematic has a typo – it is not P2.22) can be used to read the state of the pushbutton. If the button is pressed, will we read a '0' value at the pin.
 
+Based on this, we see that **P2.12** (the board schematic has a typo - it is not **P2.22**) can be used to read the state of the pushbutton. If the button is pressed, we will read a **0 value** at the pin.
 Below are 2 pictures when the user pressess the button to pause or resume the game.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57875211-5e4d1380-77e0-11e9-8694-3d9221219e0b.PNG">
@@ -56,9 +53,8 @@ Below are 2 pictures when the user pressess the button to pause or resume the ga
 Before the user plays the game, the user needed to first insert a coin. This can be done by pressing a pushbutton, integrated on the board. The schematic below illustrates the pins and polarity of the pushbutton.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57878385-e84caa80-77e7-11e9-834d-43667475cbc9.PNG">
-Based on this, we see that P2.11 can be used to read the state of the pushbutton. If the button is pressed, will we read a '0' value at the pin.
-Once the button is pressed, the game will automatically begin.
-A picture of the display screen is shown below.
+
+Based on this, we see that **P2.11** can be used to read the state of the puchbutton. If the button is pressed, we will read a **0 value** at the pin. A picture of the display is shown below.
 
 <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/40522456/57878555-47aaba80-77e8-11e9-8327-5a073531ad7a.PNG">
 
