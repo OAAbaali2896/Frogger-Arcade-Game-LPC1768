@@ -85,7 +85,3 @@ A full video of the Frogger Game using LPC1768 Microntroller Board can be viewed
 * Create actual sprites(eg. cars, trucks, logs, and turtles) that look similar to the real objects in the Frogger game.
 * Displaying Scores whenever the frog moves towards the top of the screen.
 * Moving the cars, logs, and turtles smoother.
-
-# Thank You
-# Email: osamaafz@buffalo.edu / osama.afzal96@gmail.com
-# Linkedin - https://www.linkedin.com/in/osamaabaali/
